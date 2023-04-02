@@ -1,1 +1,1 @@
-# python.training
+# python.training tu jest opis pliku
